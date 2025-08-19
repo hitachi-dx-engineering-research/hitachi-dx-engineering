@@ -1,3 +1,12 @@
+- authors: "Naoto Sato and Ryota Katsube"
+  year: "August, 2025"
+  title: "Bug-locating Method based on Statistical Testing for Quantum Programs"
+  link: "https://ieeexplore.ieee.org/document/11121593"
+  publisher: "IEEE Transactions on Software Engineering"
+  tags:
+   - "Testing, Verification"
+   - "Quantum Computing"  
+
 - authors: "鷲崎弘宜, 元山厚, 小川秀人"
   year: "2025年3月"
   title: "生成 AI はシステム開発をどう変革していくのか？"
