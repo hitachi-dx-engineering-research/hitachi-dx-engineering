@@ -1,3 +1,19 @@
+- authors: "Kentaro Watanabe, Hideto Ogawa, Nagisa Matsumoto, Jayesh Guntupalli, Kenta Yamasaki, Masumi Kawakami, Mizuki Miyamoto and Masaki Takeda"
+  year: "August, 2025"
+  title: "Toward frictionless system engineering through role-playing multi-agent coordination and enhanced explainability"
+  link: "https://ieee-genai.conferences.computer.org/2025/program/"
+  publisher: "2025 IEEE Computer Society Enterprise Generative AI Summit"
+  tags:
+   - "Human Factor"
+   - "AI, ML"
+   - "Design, Implementation"
+   - "Code Generation"
+   - "Testing, Verification"
+   - "Quality, Reliability, Safety"
+   - "Software Process Improvement"
+   - "Project Management"  
+  new: true
+
 - authors: "Naoto Sato and Ryota Katsube"
   year: "August, 2025"
   title: "Bug-locating Method based on Statistical Testing for Quantum Programs"
@@ -6,6 +22,7 @@
   tags:
    - "Testing, Verification"
    - "Quantum Computing"  
+  new: true
 
 - authors: "鷲崎弘宜, 元山厚, 小川秀人"
   year: "2025年3月"
@@ -23,8 +40,6 @@
    - "Design, Implementation"
    - "Code Generation"
    - "Testing, Verification"  
-  new: true
-
 
 - authors: "川上真澄"
   year: "2025年2月"
@@ -41,7 +56,6 @@
    - "Software Process Improvement"
    - "Evolution, Analysis"
    - "Architecture"  
-  new: true
 
 - authors: "Naoto Sato, Tomonori Sekiguchi, Takeru Utsugi, and Hiroyuki Mizuno"
   year: "Feb. 2025"
